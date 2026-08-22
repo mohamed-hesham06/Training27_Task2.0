@@ -5,7 +5,7 @@
 - Step 2: Select "Selig format dat file" to access co-ords
 - Step 3: Copy the co-ords into a txt file and save as "airfoil_name".dat
 - Step4: Run XFLR5 and open the .dat file
-## Explanation Videos
+## XFLR5 Playlist
 - [Video 1](https://drive.google.com/file/d/1Qt5Ir37cOqa5sCLHr3m_8BMdvUEPoBXL/view)
 - [Video 2](https://www.youtube.com/watch?v=7obBVeD7wd8)
 - [Video 3](https://www.youtube.com/watch?v=xmalG5VS47g)
